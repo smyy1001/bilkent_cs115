@@ -1,2 +1,2 @@
-# bilkent_cs115
-Bilkent CS115 Summer 2023
+*Author: Sümeyye ACAR - www.linkedin.com/in/acar-sumeyye*
+# Bilkent CS115 Summer 2023
