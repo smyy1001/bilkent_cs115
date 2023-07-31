@@ -1,0 +1,9 @@
+12345;pinar organic milk;8.95
+12345;uno whole wheat bread;9.95
+98734;broccoli;4.65
+34567;dimes orange juice;6.50
+98734;uno lavas;8.25
+12345;chicken wings;18.95
+98734;ground beef;61.95
+34567;keskinoglu eggs;18.95
+12345;Barilla Spaghetti;5.95
