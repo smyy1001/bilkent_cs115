@@ -21,7 +21,6 @@ def find_order_items( o_file, order_id ):
     return items,total
 
 
-
 def find_order( c_file, cname ):
     inFile = open(c_file,'r')
 
