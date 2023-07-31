@@ -10,7 +10,6 @@ TENNISBALL = 0.7
 BASKETBALL = 0.75
 SUPERBALL = 0.9
 SOFTBALL = 0.3
-
 ballType = input( "Enter Ball Type: " ).lower(  )
 
 while ballType != 'exit':
