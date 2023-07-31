@@ -57,10 +57,10 @@ if val > 0:
         else:
             print( "Invalid conversion unit" )
         
-    else: # unit of the entered value is not bit, byte or kilobyte
+    else:# unit of the entered value is not bit, byte or kilobyte
         print( "Invalid Unit" )
 
-else: # entered an non-positive integer
+else:# entered an non-positive integer
     print( "Units must be positive" )
 
 
