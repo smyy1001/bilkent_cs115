@@ -6,7 +6,6 @@
  Assignment: Lab03
 """
 
-
 def count_letter( c, word ):
     count = 0
     for ch in word:
