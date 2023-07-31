@@ -6,6 +6,7 @@
  Assignment: Lab05
 """
 
+
 def read_restaurants( fileName ):
     restaurants = {}
     data = open( fileName,'r' )
