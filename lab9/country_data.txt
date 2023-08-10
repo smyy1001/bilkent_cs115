@@ -1,0 +1,150 @@
+region	country
+South Asia	Afghanistan
+Central and Eastern Europe	Albania
+Middle East and North Africa	Algeria
+Latin America and Caribbean	Argentina
+Commonwealth of Independent States	Armenia
+North America and ANZ	Australia
+Western Europe	Austria
+Commonwealth of Independent States	Azerbaijan
+Middle East and North Africa	Bahrain
+South Asia	Bangladesh
+Commonwealth of Independent States	Belarus
+Western Europe	Belgium
+Sub-Saharan Africa	Benin
+Latin America and Caribbean	Bolivia
+Central and Eastern Europe	Bosnia and Herzegovina
+Sub-Saharan Africa	Botswana
+Latin America and Caribbean	Brazil
+Central and Eastern Europe	Bulgaria
+Sub-Saharan Africa	Burkina Faso
+Sub-Saharan Africa	Burundi
+Southeast Asia	Cambodia
+Sub-Saharan Africa	Cameroon
+North America and ANZ	Canada
+Sub-Saharan Africa	Chad
+Latin America and Caribbean	Chile
+East Asia	China
+Latin America and Caribbean	Colombia
+Sub-Saharan Africa	Comoros
+Sub-Saharan Africa	Congo (Brazzaville)
+Latin America and Caribbean	Costa Rica
+Central and Eastern Europe	Croatia
+Western Europe	Cyprus
+Central and Eastern Europe	Czech Republic
+Western Europe	Denmark
+Latin America and Caribbean	Dominican Republic
+Latin America and Caribbean	Ecuador
+Middle East and North Africa	Egypt
+Latin America and Caribbean	El Salvador
+Central and Eastern Europe	Estonia
+Sub-Saharan Africa	Ethiopia
+Western Europe	Finland
+Western Europe	France
+Sub-Saharan Africa	Gabon
+Sub-Saharan Africa	Gambia
+Commonwealth of Independent States	Georgia
+Western Europe	Germany
+Sub-Saharan Africa	Ghana
+Western Europe	Greece
+Latin America and Caribbean	Guatemala
+Sub-Saharan Africa	Guinea
+Latin America and Caribbean	Haiti
+Latin America and Caribbean	Honduras
+East Asia	Hong Kong S.A.R. of China
+Central and Eastern Europe	Hungary
+Western Europe	Iceland
+South Asia	India
+Southeast Asia	Indonesia
+Middle East and North Africa	Iran
+Middle East and North Africa	Iraq
+Western Europe	Ireland
+Middle East and North Africa	Israel
+Western Europe	Italy
+Sub-Saharan Africa	Ivory Coast
+Latin America and Caribbean	Jamaica
+East Asia	Japan
+Middle East and North Africa	Jordan
+Commonwealth of Independent States	Kazakhstan
+Sub-Saharan Africa	Kenya
+Central and Eastern Europe	Kosovo
+Middle East and North Africa	Kuwait
+Commonwealth of Independent States	Kyrgyzstan
+Southeast Asia	Laos
+Central and Eastern Europe	Latvia
+Middle East and North Africa	Lebanon
+Sub-Saharan Africa	Lesotho
+Sub-Saharan Africa	Liberia
+Middle East and North Africa	Libya
+Central and Eastern Europe	Lithuania
+Western Europe	Luxembourg
+Sub-Saharan Africa	Madagascar
+Sub-Saharan Africa	Malawi
+Southeast Asia	Malaysia
+South Asia	Maldives
+Sub-Saharan Africa	Mali
+Western Europe	Malta
+Sub-Saharan Africa	Mauritania
+Sub-Saharan Africa	Mauritius
+Latin America and Caribbean	Mexico
+Commonwealth of Independent States	Moldova
+East Asia	Mongolia
+Central and Eastern Europe	Montenegro
+Middle East and North Africa	Morocco
+Sub-Saharan Africa	Mozambique
+Southeast Asia	Myanmar
+Sub-Saharan Africa	Namibia
+South Asia	Nepal
+Western Europe	Netherlands
+North America and ANZ	New Zealand
+Latin America and Caribbean	Nicaragua
+Sub-Saharan Africa	Niger
+Sub-Saharan Africa	Nigeria
+Western Europe	North Cyprus
+Central and Eastern Europe	North Macedonia
+Western Europe	Norway
+South Asia	Pakistan
+Middle East and North Africa	Palestinian Territories
+Latin America and Caribbean	Panama
+Latin America and Caribbean	Paraguay
+Latin America and Caribbean	Peru
+Southeast Asia	Philippines
+Central and Eastern Europe	Poland
+Western Europe	Portugal
+Central and Eastern Europe	Romania
+Commonwealth of Independent States	Russia
+Sub-Saharan Africa	Rwanda
+Middle East and North Africa	Saudi Arabia
+Sub-Saharan Africa	Senegal
+Central and Eastern Europe	Serbia
+Sub-Saharan Africa	Sierra Leone
+Southeast Asia	Singapore
+Central and Eastern Europe	Slovakia
+Central and Eastern Europe	Slovenia
+Sub-Saharan Africa	South Africa
+East Asia	South Korea
+Western Europe	Spain
+South Asia	Sri Lanka
+Sub-Saharan Africa	Swaziland
+Western Europe	Sweden
+Western Europe	Switzerland
+East Asia	Taiwan Province of China
+Commonwealth of Independent States	Tajikistan
+Sub-Saharan Africa	Tanzania
+Southeast Asia	Thailand
+Sub-Saharan Africa	Togo
+Middle East and North Africa	Tunisia
+Middle East and North Africa	Turkey
+Commonwealth of Independent States	Turkmenistan
+Sub-Saharan Africa	Uganda
+Commonwealth of Independent States	Ukraine
+Middle East and North Africa	United Arab Emirates
+Western Europe	United Kingdom
+North America and ANZ	United States
+Latin America and Caribbean	Uruguay
+Commonwealth of Independent States	Uzbekistan
+Latin America and Caribbean	Venezuela
+Southeast Asia	Vietnam
+Middle East and North Africa	Yemen
+Sub-Saharan Africa	Zambia
+Sub-Saharan Africa	Zimbabwe
