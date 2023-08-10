@@ -6,7 +6,6 @@
  Assignment: Lab08
 """
 
-
 class Doctor:
     
     def __init__( self, dId, dName, dSpec, hosp ):
