@@ -74,7 +74,6 @@ labels = ( 'Male', 'Female' )
 # Pia chart = data, labels, autopct (%1.2f = 2 decimals after '.', %% = one % sign)
 plt.pie( t_data, labels = labels, autopct='%1.2f%%' )
 
-
 # sub-plot 2: 2 row, 1 column, position index: 2
 plt.subplot( 2, 1, 2 )
 
