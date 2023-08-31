@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Sep 17 10:54:56 2019
-
-@author: b
+ Author: Sumeyye Acar
+ Id: 22103640
+ Course: CS-115
+ Semester: Summer 2023
+ Assignment: Lab07
 """
 
 import Vehicle as v
